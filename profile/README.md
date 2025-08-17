@@ -1,3 +1,5 @@
+# WARNING: NOT UP TO DATE FOR 1.18 YET -- PLAY AT YOUR OWN RISK
+
 ## VanillaHD -- A Turtle WoW Project
 
 The goal of this project is to bring modern graphics into our favorite retro games for emulation purposes, specifically bringing modern WoW graphics into the 1.12.1 Vanilla (and beyond) client using .mpq modding.
