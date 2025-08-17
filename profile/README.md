@@ -18,6 +18,5 @@ These patches are maintained publicly to allow others to use, report bugs for, a
 Project led by and created for Turtle WoW -- https://turtle-wow.org/
 Support the project by signing up and playing today!
 
-Want to directly support the pack's maintainers? Donate here: kofi link etc
 
 Additional thanks to the maintainers of projects predating this one, such as RedMageJoe, Astricon, Crestian, Samsam, Tonky, Watchers3d, and Zer0cool!
